@@ -14,5 +14,5 @@ Usage:-
 8) The database table will be displayed on the Python Shell
 
 Authors:-
-1. Shekhar Raha, Kendriya Vidyalaya No.1, Salt Lake, Kolkata, India
-2. Shantanu Kundu, Kendriya Vidyalaya No.1, Salt Lake, Kolkata, India
+1. Shekhar Raha, Kendriya Vidyalaya No. 1, Salt Lake, Kolkata, India
+2. Shantanu Kundu, Kendriya Vidyalaya No. 1, Salt Lake, Kolkata, India
